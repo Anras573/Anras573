@@ -33,13 +33,13 @@ I love playing boardgames! Do you wanna see my [collection?](https://geekgroup.a
 ### 🐱 Father of 3 Cats
 
 Baby
-![Baby](assets/img/baby.jpg)
+![Baby](/assets/img/baby.jpg)
 
 Bette Mand
-![Bette Mand](assets/img/bettemand.jpg)
+![Bette Mand](/assets/img/bettemand.jpg)
 
 Miv
-![Miv](assets/img/miv.jpg)
+![Miv](/assets/img/miv.jpg)
 
 <!-- <img src="assets/img/baby.jpg" width="33%" alt="Baby" />
 <img src="assets/img/bettemand.jpg" width="33%" alt="Baby" />
