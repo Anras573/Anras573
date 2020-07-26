@@ -1,4 +1,4 @@
-# <center>Hi there 👋</center>
+# <center style="text-align: center;">Hi there 👋</center>
 
 ## Short Version
 
@@ -12,7 +12,7 @@
 
 ### 📖 Reading
 
-I like reading. Go see my [reading challenge](https://www.goodreads.com/user_challenges/19182382).
+I like reading. I spent my commute time reading, while travelling to and from work. For fun I read fantasy and sci-fy books, also comic books are a huge favorite. I read many books a year, go see my [reading challenge](https://www.goodreads.com/user_challenges/19182382).
 
 ### 🏃‍♂️ Running
 
@@ -32,18 +32,9 @@ I love playing boardgames! Do you wanna see my [collection?](https://geekgroup.a
 
 ### 🐱 Father of 3 Cats
 
-Baby
-![Baby](/assets/img/baby.jpg)
+Baby (female) the oldest, Miv (female) the middle one, and Bette Mand (male) the youngest.
 
-Bette Mand
-![Bette Mand](/assets/img/bettemand.jpg)
-
-Miv
-![Miv](/assets/img/miv.jpg)
-
-<!-- <img src="assets/img/baby.jpg" width="33%" alt="Baby" />
-<img src="assets/img/bettemand.jpg" width="33%" alt="Baby" />
-<img src="assets/img/miv.jpg" width="33%" alt="Baby" /> -->
+![The cats](https://raw.githubusercontent.com/Anras573/Anras573/master/assets/img/Kattene.png)
 
 <!--
 **Anras573/Anras573** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
