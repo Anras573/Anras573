@@ -1,4 +1,4 @@
-# <center style="text-align: center;">Hi there 👋</center>
+<h1 align="center">Hi there 👋</h1>
 
 ## Short Version
 
@@ -9,6 +9,10 @@
 - 🐱 Father of 3 cats
 
 ## About Me
+
+### 💻 Backend Developer
+
+.NET developer with a focus on performance and clean code.
 
 ### 📖 Reading
 
@@ -29,6 +33,8 @@ I love running 🏃‍♂️ I might not be the fastest man alive, but that does
 ### ♟ Boardgames
 
 I love playing boardgames! Do you wanna see my [collection?](https://geekgroup.app/users/anbora/collection)
+
+I'm always up for a game night ♟ and please don't tell me about _that_ game on kickstarter, as I've already backed it 😅
 
 ### 🐱 Father of 3 Cats
 
