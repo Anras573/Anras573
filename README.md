@@ -16,7 +16,15 @@
 
 ### 📖 Reading
 
-I like reading. I spent my commute time reading, while travelling to and from work. For fun I read fantasy and sci-fy books, also comic books are a huge favorite. I read many books a year, go see my [reading challenge](https://www.goodreads.com/user_challenges/19182382).
+I like reading. I spent my commute time reading, while travelling to and from work. For fun I read fantasy and sci-fy books, also comic books are a huge favorite. I read many books a year, go see my [reading challenge](https://www.goodreads.com/user_challenges/25384114).
+
+|Year|Books|Link|
+|----|-----|----|
+|2017| 9/12|https://www.goodreads.com/user_challenges/7919635|
+|2018|28/24|https://www.goodreads.com/user_challenges/10975107|
+|2019|45/30|https://www.goodreads.com/user_challenges/14692710|
+|2020|48/40|https://www.goodreads.com/user_challenges/19182382|
+|2021|11/20|https://www.goodreads.com/user_challenges/25384114|
 
 ### 🏃‍♂️ Running
 
