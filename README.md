@@ -24,7 +24,8 @@ I like reading. I spent my commute time reading, while travelling to and from wo
 |2018|28/24|https://www.goodreads.com/user_challenges/10975107|
 |2019|45/30|https://www.goodreads.com/user_challenges/14692710|
 |2020|48/40|https://www.goodreads.com/user_challenges/19182382|
-|2021|36/20|https://www.goodreads.com/user_challenges/25384114|
+|2021|38/20|https://www.goodreads.com/user_challenges/25384114|
+|2022|43/20|https://www.goodreads.com/user_challenges/31149948|
 
 ### 🏃‍♂️ Running
 
